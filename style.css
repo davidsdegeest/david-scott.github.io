@@ -1,0 +1,51 @@
+body, html {
+  padding: 0;
+  margin: 0; 
+}
+
+h1 {
+  text-align: center;
+}
+
+header {
+  background-color: skyblue; 
+}
+
+main{
+  max-width: 400px;
+  margin: 0 auto 
+    /*this controls the margins to center content*/
+}
+
+img {
+  width: 10%;
+  height: 25%;
+  /*you can also set with 50px;*/
+  /*you can also set max-width;*/
+}
+
+/*class style*/
+.primary-image {
+  width: 100%;
+  height: 100px;
+  /*you can also set with 50px;*/
+  /*you can also set max-width;*/
+}
+
+
+p {
+  background-color: coral;
+}
+
+/*you can also set max-width for all content;*/
+main {
+  max-width: 
+}
+
+article {
+  margin: 5px;
+  float: left; 
+  height: 300px;
+  width: 47%;
+  background-color: yellow;
+}
